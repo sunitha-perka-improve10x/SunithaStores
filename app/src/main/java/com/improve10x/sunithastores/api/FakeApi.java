@@ -1,6 +1,5 @@
 package com.improve10x.sunithastores.api;
 
-import com.improve10x.sunithastores.CategoriesService;
 import com.improve10x.sunithastores.Constants;
 
 import retrofit2.Retrofit;

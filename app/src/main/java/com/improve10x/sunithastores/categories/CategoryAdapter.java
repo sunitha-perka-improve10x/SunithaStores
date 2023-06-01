@@ -1,4 +1,4 @@
-package com.improve10x.sunithastores;
+package com.improve10x.sunithastores.categories;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
@@ -8,7 +8,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.improve10x.sunithastores.databinding.CategoryItemBinding;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class CategoryAdapter extends RecyclerView.Adapter<CategoryViewHolder> {

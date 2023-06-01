@@ -1,4 +1,4 @@
-package com.improve10x.sunithastores;
+package com.improve10x.sunithastores.categories;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
